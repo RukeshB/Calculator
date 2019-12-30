@@ -1,0 +1,35 @@
+c:\users\rukesh\documents\visual studio 2015\Projects\calculator2\calculator2\bin\Debug\calculator2.exe.config
+c:\users\rukesh\documents\visual studio 2015\Projects\calculator2\calculator2\bin\Debug\calculator2.exe
+c:\users\rukesh\documents\visual studio 2015\Projects\calculator2\calculator2\bin\Debug\calculator2.pdb
+c:\users\rukesh\documents\visual studio 2015\Projects\calculator2\calculator2\obj\Debug\calculator2.csprojResolveAssemblyReference.cache
+c:\users\rukesh\documents\visual studio 2015\Projects\calculator2\calculator2\obj\Debug\calculator2.Form1.resources
+c:\users\rukesh\documents\visual studio 2015\Projects\calculator2\calculator2\obj\Debug\calculator2.Properties.Resources.resources
+c:\users\rukesh\documents\visual studio 2015\Projects\calculator2\calculator2\obj\Debug\calculator2.csproj.GenerateResource.Cache
+c:\users\rukesh\documents\visual studio 2015\Projects\calculator2\calculator2\obj\Debug\calculator2.exe
+c:\users\rukesh\documents\visual studio 2015\Projects\calculator2\calculator2\obj\Debug\calculator2.pdb
+G:\calculator2\calculator2\obj\Debug\calculator2.pdb
+G:\calculator2\calculator2\bin\Debug\calculator2.exe
+G:\calculator2\calculator2\bin\Debug\calculator2.pdb
+G:\calculator2\calculator2\obj\Debug\calculator2.csprojResolveAssemblyReference.cache
+G:\calculator2\calculator2\obj\Debug\calculator2.Form1.resources
+G:\calculator2\calculator2\obj\Debug\calculator2.Properties.Resources.resources
+G:\calculator2\calculator2\obj\Debug\calculator2.csproj.GenerateResource.Cache
+G:\calculator2\calculator2\obj\Debug\calculator2.csproj.CoreCompileInputs.cache
+G:\calculator2\calculator2\obj\Debug\calculator2.exe
+J:\calculator2\calculator2\obj\Debug\calculator2.exe
+J:\calculator2\calculator2\obj\Debug\calculator2.pdb
+J:\calculator2\calculator2\bin\Debug\calculator2.exe
+J:\calculator2\calculator2\bin\Debug\calculator2.pdb
+J:\calculator2\calculator2\obj\Debug\calculator2.csprojResolveAssemblyReference.cache
+J:\calculator2\calculator2\obj\Debug\calculator2.Form1.resources
+J:\calculator2\calculator2\obj\Debug\calculator2.Properties.Resources.resources
+J:\calculator2\calculator2\obj\Debug\calculator2.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\calculator2\calculator2\bin\Debug\calculator2.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\calculator2\calculator2\obj\Debug\calculator2.exe
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\calculator2\calculator2\obj\Debug\calculator2.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\calculator2\calculator2\bin\Debug\calculator2.exe
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\calculator2\calculator2\bin\Debug\calculator2.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\calculator2\calculator2\obj\Debug\calculator2.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\calculator2\calculator2\obj\Debug\calculator2.Form1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\calculator2\calculator2\obj\Debug\calculator2.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\calculator2\calculator2\obj\Debug\calculator2.csproj.GenerateResource.Cache
